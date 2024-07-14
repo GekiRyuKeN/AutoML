@@ -1,8 +1,10 @@
 streamlit
-pypdf
-regex
+pandas
 numpy
-sentence-transformers
+matplotlib
+seaborn
+plotly
 scikit-learn
-spacy
-thinc
+joblib
+tqdm
+
