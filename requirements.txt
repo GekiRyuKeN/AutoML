@@ -5,4 +5,4 @@ numpy
 sentence-transformers
 scikit-learn
 spacy
-thin
+thinc
