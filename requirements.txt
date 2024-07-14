@@ -1,6 +1,9 @@
 streamlit
-ydata-profiling
-pycaret
-numpy
 pandas
-streamlit-pandas-profiling
+numpy
+matplotlib
+seaborn
+plotly
+scikit-learn
+joblib
+tqdm
