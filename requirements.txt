@@ -1,9 +1,8 @@
 streamlit
-pandas
+pypdf
+regex
 numpy
-matplotlib
-seaborn
-plotly
+sentence-transformers
 scikit-learn
-joblib
-tqdm
+spacy
+thin
